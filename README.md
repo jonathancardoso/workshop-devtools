@@ -1,8 +1,5 @@
-# AWS BlackBelt | *Application Modernization*
-
-![AWS BlackBelt ](img/bb_logo.png)
-
 # Workshop AWS DevTools
+Autor: Henrique Bueno (buenoh@amazon.com)
 
 ## Visão Geral
 Implemente pipelines CI/CD para micro-serviços em python rodando em container no Fargate.
