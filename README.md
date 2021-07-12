@@ -41,11 +41,11 @@ Implemente pipelines CI/CD para micro-serviços em python rodando em container n
 
 ## Tópicos:
 
-#### [1. Preparação do ambiente para o workshop](https://github.com/hgbueno/devtools-workshop#1-preparação-do-ambiente-para-o-workshop)
-#### [2. Criação das stacks de fundação](https://github.com/hgbueno/devtools-workshop#2-criação-das-stacks-de-fundação)
-#### [3. Criação do primeiro micro-serviço](https://github.com/hgbueno/devtools-workshop#3-criação-o-primeiro-micro-serviço)
-#### [4. Criação de pipelines para novas branches](https://github.com/hgbueno/devtools-workshop#4-criação-de-pipelines-para-novas-branches)
-#### [5. Adicionando testes na pipeline](https://github.com/hgbueno/devtools-workshop#5-adicionando-estágios-de-testes-na-pipeline)
+#### [1. Preparação do ambiente para o workshop](https://github.com/jonathancardoso/workshop-devtools#1-preparação-do-ambiente-para-o-workshop)
+#### [2. Criação das stacks de fundação](https://github.com/jonathancardoso/workshop-devtools#2-criação-das-stacks-de-fundação)
+#### [3. Criação do primeiro micro-serviço](https://github.com/jonathancardoso/workshop-devtools#3-criação-o-primeiro-micro-serviço)
+#### [4. Criação de pipelines para novas branches](https://github.com/jonathancardoso/workshop-devtools#4-criação-de-pipelines-para-novas-branches)
+#### [5. Adicionando testes na pipeline](https://github.com/jonathancardoso/workshop-devtools#5-adicionando-estágios-de-testes-na-pipeline)
 
 <br />
 <br />
@@ -101,7 +101,7 @@ git clone <RepoURL>
 
 ### 1.6 Clone este repositório.
 ```
-git clone https://github.com/hgbueno/devtools-workshop.git
+git clone https://github.com/jonathancardoso/workshop-devtools.git
 ```
 <br />
 <br />
@@ -178,7 +178,7 @@ git clone <RepoURL>
 
 * Copie o conteúdo do diretório sample-app do repositório do workshop para o novo repositório do CodeCommit. Exemplo:
 ```
-cp -rpf ../devtools-workshop/sample-app/* <RepoName>/
+cp -rpf ../workshop-devtools/sample-app/* <RepoName>/
 ```
 
 ### 3.3 Configure os parâmetros para o micro-serviço
